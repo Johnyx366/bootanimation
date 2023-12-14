@@ -1,0 +1,5 @@
+1080 1920 10 1
+dynamic_colors part0 #FF0000 #00FF00 #0000FF #FFFF00
+p 0 0 part0 0
+c 0 0 part1
+$SYSTEM
